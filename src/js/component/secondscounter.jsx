@@ -7,8 +7,8 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const SecondsCounter = (props) => {
 	return (
     <>
-    <h1>SecondsCounter</h1>
 	<div className="row" style={{backgroundColor:'blue', color: 'white', fontSize:'1000 px', fontWeight:'bold', padding: 50}}>
+    <h1 className="text-center">SecondsCounter</h1>
 		<div className="col-6">
 		<img src="https://png.pngtree.com/png-vector/20190224/ourmid/pngtree-vector-watch-icon-png-image_701278.jpg" width='150px'/>
 			</div>
